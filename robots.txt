@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://danichrisd.github.io/reference-vm0unb/sitemap.xml
